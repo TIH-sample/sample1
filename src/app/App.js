@@ -5,8 +5,6 @@ function App() {
     <>
       <div>안녕??!!</div>
       <p>hello world</p>
-      <p>hello world</p>
-      <p>hello world</p>
     </>
   );
 }
