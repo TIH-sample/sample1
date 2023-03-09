@@ -1,5 +1,6 @@
 
 function App() {
+  const a = 10;
   return (
     <>
       <div>안녕??!!</div>
